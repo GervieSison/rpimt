@@ -1,0 +1,40 @@
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: green;
+    font-family: verdana;
+    height: 96vh;
+
+}
+
+.Intro {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    width:100%;
+    height: 100%;
+    justify-items: center;
+    align-items: center;
+}
+
+.myBtn {
+    
+    background-color: darkgreen;
+    border-radius: 10px;
+}
+
+.title {
+    color: white;
+}
+
+#link1 {
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+    color: greenyellow;
+    width: 250px;
+    text-align: center
+}
